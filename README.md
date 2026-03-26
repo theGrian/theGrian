@@ -1,19 +1,17 @@
-
-</div>
 <div align="center">
 
-# @Grian
+<h1>@Grian</h1>
 
-### https://youtube.com/@grian?si=xctVEKqaXSylRkmo
+<h2>https://en.bronolink.com/grian</h2>
 
 <p>
-  <a href="https://youtube.com/@DEINNAME">
-    <img src="https://cdn.simpleicons.org/youtube/white" height="35"/>
+  <a href="https://youtube.com/@Grian">
+    <img src="https://cdn.simpleicons.org/youtube/white" height="40"/>
   </a>
 </p>
 
 </div>
-<!--
+
 **theGrian/theGrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
