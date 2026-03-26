@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
-  <a href="https://youtube.com/@DEINNAME">
+  <a href="https://youtube.com/@Grian">
     <img src="https://cdn.simpleicons.org/youtube/white" height="35"/>
   </a>
 </p>
