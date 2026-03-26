@@ -2,7 +2,7 @@
 
 <h1>@Grian</h1>
 
-<h2>https://en.bronolink.com/DEINNAME</h2>
+<h2>https://youtube.com/@Grian</h2>
 
 <p>
   <a href="https://youtube.com/@Grian">
