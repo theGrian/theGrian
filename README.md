@@ -1,8 +1,3 @@
-<div align="center">
-
-# @Grian
-
-### https://en.bronolink.com/DEINNAME
 
 </div>
 <div align="center">
