@@ -5,11 +5,19 @@
 ### https://en.bronolink.com/DEINNAME
 
 </div>
-<p align="center">
-  <a href="https://youtube.com/@Grian">
+<div align="center">
+
+# @Grian
+
+### https://youtube.com/@grian?si=xctVEKqaXSylRkmo
+
+<p>
+  <a href="https://youtube.com/@DEINNAME">
     <img src="https://cdn.simpleicons.org/youtube/white" height="35"/>
   </a>
 </p>
+
+</div>
 <!--
 **theGrian/theGrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
