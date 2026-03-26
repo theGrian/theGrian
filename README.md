@@ -1,4 +1,9 @@
-<div align="center">
-<h1>@Grian</h1>
-<h2>https://youtube.com/@grian?si=5RJqF8ecaSccud9d</h2>
+<h2>https://en.bronolink.com/theGrian</h2>
+
+<p>
+  <a href="https://youtube.com/@Grian">
+    <img src="https://cdn.simpleicons.org/youtube/white" height="40"/>
+  </a>
+</p>
+
 </div>
